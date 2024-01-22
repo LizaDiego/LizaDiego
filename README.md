@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LizaDiego
-- 👀 I’m interested in Information Technology, Web Development, Software, IT Services and Finance Technology.
+- 👀 I’m interested in Web Development, Software Applications, IT Services, Technical Training and Finance Technologies.
 - 🌱 I’m currently learning Full Stack Development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
